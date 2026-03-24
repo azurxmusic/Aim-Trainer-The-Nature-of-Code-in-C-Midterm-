@@ -1,0 +1,8 @@
+﻿  Scanning sources for module dependencies...
+  main.cpp
+  ofApp.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+     Creating library bin\midterm_debug.lib and object bin\midterm_debug.exp
+  midterm.vcxproj -> C:\Users\sword\Downloads\OPENFRAMEWORKS\of_v0.12.1_vs_64_release\apps\myApps\midterm\bin\midterm_debug.exe
+  File not found - *.dll
+  0 File(s) copied
